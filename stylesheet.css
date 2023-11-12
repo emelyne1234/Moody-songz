@@ -10,6 +10,14 @@ body{
 
 .logoarea{
     width: 758.44px; height: 230px;
+
+}
+
+.logoarea p{
+    color: white;
+    text-align: center;
+    margin-right: 70%;
+    padding-top: 10%;
 }
 /*------------ Login container ------------*/
 
