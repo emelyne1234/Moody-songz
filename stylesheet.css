@@ -9,15 +9,20 @@ body{
 /*------------ Logo area ------------*/
 
 .logoarea{
-    width: 758.44px; height: 230px;
+    width: 250.44px; height: 100px;
 
 }
 
 .logoarea p{
     color: white;
     text-align: center;
-    margin-right: 70%;
+    margin-right: 40%;
     padding-top: 10%;
+    font-size: 14px;
+}
+
+.logoarea .p-2{
+    color: white;
 }
 /*------------ Login container ------------*/
 
